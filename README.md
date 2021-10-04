@@ -1,6 +1,6 @@
 # prova_flutter
 
-A new Flutter application.
+Projeto integração com api de clima tempo
 
 ## Getting Started
 
